@@ -1,0 +1,55 @@
+
+
+body{
+    margin: 0;
+    font-family: Helvetica,Arial, sans-serif;
+}
+
+.header{
+    background-color: #3949ab;
+    color: #fff;
+    text-align: center;  
+    padding: 16px;
+}
+
+.encabezado{
+    display: inline-block;
+    width: 400px;
+    /* padding: 20px; no entieno aqui esta mal poner el paddding? estuddiarlo esta feo */
+}
+
+.h{
+    font-weight: 700;
+}
+.p{
+    font-weight:200;
+}
+
+.experience{
+    background-color: #f06292;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.section{
+    width: 960px;
+    height: 200px;
+    margin: auto;
+}
+
+.header3{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.educations{
+    display: inline-block;
+    width:60% ;
+}
+
+.imagen{
+    display: inline-block;
+    width: 30%;
+    margin-top: 10px;
+}
